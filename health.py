@@ -8,7 +8,7 @@ question5 = input("Обядва ли топла храна? ")
 
 if(question1.lower() == "да"):
     points+=2
-if(question2.lower() == "да"):
+if(question2.lower() == "не"):
     points+=2
 if(question3.lower() == "да"):
     points+=2
